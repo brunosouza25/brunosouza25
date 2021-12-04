@@ -53,19 +53,6 @@
 <br>
 
 <p>
-    Vou aprender - I will learn:
-<p>
-    
-<div>
-    <img alt="NodeJS" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-    <img alt="ExpressJS" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
-    <img alt="AmazonAWS" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
-    <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>    
-</div>
-
-<br>
-
-<p>
   Minhas estátisticas - My statics:
 </p>
 
