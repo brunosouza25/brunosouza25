@@ -1,22 +1,34 @@
-<h3>
-    Olá pessoal, me chamo Bruno Souza, sou desenvolvedor backend e apaixonado pela tecnologia!
-    <br>
-    Hi guys, I'm Bruno Souza, backend developer and passionate about technology!👋
-</h3>
+<h4>
+I'm enthusiast and technology lover.
+</h4>
 
-<br>
+<h4>
+I have worked in the area of web development with technologies such as PHP, JavaScript, MySQL, HTML5, 
+CSS, bootstrap and Materialize, along with tools such as PHP Storm, VSCode and MySQL Workbench for the 
+development, maintenance and improvement of the products and APIs of the company MemoCash Soluções while while documenting and versioning code using Github 
+together with a qualified team where we shared knowledge and solutions on a daily basis.
+
+</h4>
+
+<h4>
+Also in college I was able to have contact with C#, Python, C and Java technologies.
+</h4>
+
+<h4>
+I'm proactive, autodidact, easy person and always collaborating with the support of other departments both in monitoring problems and developing new tools to help them on a daily basis
+</h4>
 
 <hr>
 
 <p>
-    Minhas redes sociais e contatos - My social network and contacts:
+    My social network and contacts:
 </p>
 
 <div>
     <a href="https://www.linkedin.com/in/brunosouza25/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
     <a href="mailto:brunopw25@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-    <a href="https://api.whatsapp.com/send?phone=5512997174836&text=Ol%C3%A1"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
-    <a href="https://www.facebook.com/brunosouza2552/"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"/></a>
+    <a href="https://api.whatsapp.com/send?phone=353832068181&text=Ol%C3%A1"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+    <a href="https://www.facebook.com/brunoapz/"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"/></a>
 </div>
 
 <br>
@@ -39,7 +51,7 @@
 <br>
 
 <p>
-    Tenho conhecimento - I have knowledge:
+    I have knowledge:
 </p>
 <div>
     <img alt="C#" src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white"/>
@@ -53,21 +65,7 @@
 <br>
 
 <p>
-  Minhas estátisticas - My statics:
+  My statics:
 </p>
 
   ![brunosouza25's GitHub stats](https://github-readme-stats.vercel.app/api?username=brunosouza25&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
-  
-  <details>
-    <summary>Mais coisas sobre mim! - More things about me! <i>Clique para expandir - Click to expand!</i></summary>
-  <br>
-
-Olá, me chamo Bruno Souza, tenho 23 anos e atualmente trabalho na área de desenvolvimento WEB.
-
-Sempre busco desafios para conseguir aprimorar minhas habilidades na resolução de problemas, na programação, na criatividade e no amadurecimento profissional.
-  
-Sou amante de tecnologia e busco sempre conhecer novas ferramentas, conceitos e boas práticas da área onde eu atuo.
-  
-Tenho boas práticas, comunicação e perfil para trabalho em equipe, busco sempre levantar requisitos para entender muito bem o problema ou o produto para entregar a melhor solução possível.
-</details>
-  
